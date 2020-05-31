@@ -1,5 +1,7 @@
 # esx_identity
 
+### I will accept PR or do bug fixes, if you found one, [just report it on section "issues"](https://github.com/0rangeFox/es_extended/issues). You can [join on my support discord](https://discord.gg/5vrjddj) to get help.
+
 ## Requirements
 * Dependencies For Full Functionality
   * [esx_skin](https://github.com/ESX-Org/esx_skin)
